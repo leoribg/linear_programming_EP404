@@ -1,3 +1,7 @@
 # PROBLEMA EP404 - Custo Marginal
 
-![ Problema ](/image/geradores.png)
+# PROBLEMA 1
+![ Problema 1 ](/image/geradores.png)
+
+# PROBLEMA 2
+![ Problema 2 ](/image/geradores_barras.jpeg)
